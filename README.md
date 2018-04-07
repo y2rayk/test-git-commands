@@ -2,9 +2,3 @@
 git hook testing
 
 
-sdfsdafas
-dfsd
-afs
-
-
-asdfsdfsa
